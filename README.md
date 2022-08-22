@@ -1,6 +1,7 @@
 # TRANSLATOR
-Mobile app development using android studio
-Created a solution that allow users to understand ‘the dialect by using the mobile application.
+# Mobile app development using android studio
+
+Created a solution that allow users to understand the dialect by using the mobile application.
 
 • Developed using Android Studio to create the mobile application which is compatible android
 phones.
