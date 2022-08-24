@@ -1,4 +1,5 @@
-# TRANSLATOR
+# Translator
+
 # Mobile app development using android studio
 
 Created a solution that allow users to understand the dialect by using the mobile application.
